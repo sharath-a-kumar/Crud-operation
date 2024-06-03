@@ -52,7 +52,7 @@ const Add = ({ url = "http://localhost:4000", editingItem = null, onFinishEditin
                     name: "",
                     description: "",
                     price: "",
-                    category: "Salad"
+                    category: ""
                 });
                 setImage(false);
                 toast.success(response.data.message);
