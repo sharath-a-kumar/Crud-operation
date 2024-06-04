@@ -44,5 +44,10 @@ This project is a food delivery website with features such as user authenticatio
    cd ../admin && npm install
    ```
 
+## Output Images
+![Screenshot 2024-06-04 104701](https://github.com/sharath-a-kumar/Crud-operation/assets/118186063/9a2a82dd-e523-4a42-b6ff-9e2b6a417588)
+
+
+
 
 
