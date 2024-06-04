@@ -1,9 +1,5 @@
 # Food Delivery Website (CRUD OPERATION)
 
-## Project Overview
-
-This project is a food delivery website with features such as user authentication, shopping cart functionality, with the CRUD operation.
-
 ## Features Implemented
 
 1. **Frontend Development**
@@ -43,6 +39,29 @@ This project is a food delivery website with features such as user authenticatio
    cd ../backend && npm install
    cd ../admin && npm install
    ```
+
+# CRUD Operation Project
+
+This project includes CRUD operations where the user can add an item with an image, name, description, price, and category. On the List Page, users can edit or delete items. Additionally, the project includes login and signup functionality to create and manage user accounts, with all data stored in a database.
+
+## Features
+
+- **Create**: Add a new item with the following details:
+  - Image
+  - Name
+  - Description
+  - Price
+  - Category
+
+- **Read**: View a list of all items.
+
+- **Update**: Edit the details of an existing item.
+
+- **Delete**: Remove an item from the list.
+
+- **Authentication**:
+  - **Login**: Existing users can log in to access their account and manage items.
+  - **Signup**: New users can create an account to start adding and managing items.
 
 ## Output images
 
