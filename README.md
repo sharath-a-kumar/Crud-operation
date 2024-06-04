@@ -44,11 +44,14 @@ This project is a food delivery website with features such as user authenticatio
    cd ../admin && npm install
    ```
 
-## Output Images
-<img src="https://github.com/sharath-a-kumar/Crud-operation/assets/118186063/9a2a82dd-e523-4a42-b6ff-9e2b6a417588" alt="Screenshot" width="400" />
+## Output images
 
+<img src="https://github.com/sharath-a-kumar/Crud-operation/assets/118186063/9a2a82dd-e523-4a42-b6ff-9e2b6a417588" alt="Screenshot 1" width="400" />
 
+<img src="https://github.com/sharath-a-kumar/Crud-operation/assets/118186063/af388fb1-e88f-4401-bf04-4e1472687a3a" alt="Screenshot 2" width="400" />
 
+<img src="https://github.com/sharath-a-kumar/Crud-operation/assets/118186063/6bb0b91f-2bd8-4d0b-936a-022efc28d1ac" alt="Screenshot 3" width="400" />
 
+<img src="https://github.com/sharath-a-kumar/Crud-operation/assets/118186063/675454fc-b3b3-4ee1-a3f0-08f075d63ffc" alt="Screenshot 4" width="400" />
 
 
